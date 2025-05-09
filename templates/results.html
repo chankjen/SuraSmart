@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matching Results</title>
+    <style>
+        body {
+            background-image: url('static/images/SuraSmart_logo.png'); /* Set your background image here */
+            background-size: cover;
+            font-family: Arial, sans-serif;
+            color: #fff;
+        }
+        .container {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            margin: 20px;
+        }
+        img {
+            max-width: 300px; /* Set a max width for the images */
+            border: 2px solid #fff; /* Optional: add border to images */
+            border-radius: 10px; /* Optional: rounded corners */
+        }
+        h1, h3, h4 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Matching Results</h1>
+    <div class="container">
+        <div>
+            <h3>Uploaded Image:</h3>
+            <img src="{{ url_for('static', filename='uploads/' + uploaded_image) }}" alt="Uploaded Image">
+        </div>
+        {% if matches %}
+            <div>
+                <h3>Matched Image:</h3>
+                <h4>{{ matches[0][0] }}</h4>
+                <img src="{{ url_for('static', filename='db_images/' + matches[0][0]) }}" alt="Matched Image">
+            </div>
+        {% else %}
+            <p>No match found.</p>
+        {% endif %}
+    </div>
+    <a href="/">Go Back</a>
+</body>
+</html>
