@@ -70,4 +70,4 @@ Together, let’s build a world where no family suffers the agony of “not know
 
 ---  
 *Sura Smart: Every Second Counts.*  
-**Contact**: Chakin Kim | ckchakin0@gmail.com | SuraSmart.ai
+**Contact**: Chakin Kim | charles@powelearnprojectafrica.org | SuraSmart.ai
