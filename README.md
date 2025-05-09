@@ -5,11 +5,13 @@
 
 * * *
 
-**The Spark of Inspiration**In 2022, a close friend’s elderly father wandered away from a home care center in Nairobi. For days, the family frantically searched hospitals, police stations, and morgues, only to face bureaucratic delays, uncoordinated databases, and dead ends. By the time he was found in a distant hospital, the emotional toll was immense. This tragedy mirrored a global crisis: **over 1 million people go missing annually**, leaving families trapped in uncertainty. I realized that the root of the problem lay in fragmented systems—hospitals, jails, morgues, and police stations operated in silos, with no way to share critical data. This inspired Sura Smart: a mission to bridge these gaps with technology and reunite loved ones faster.
+**The Spark of Inspiration**
+In 2022, a close friend’s elderly father wandered away from a home care center in Nairobi. For days, the family frantically searched hospitals, police stations, and morgues, only to face bureaucratic delays, uncoordinated databases, and dead ends. By the time he was found in a distant hospital, the emotional toll was immense. This tragedy mirrored a global crisis: **over 1 million people go missing annually**, leaving families trapped in uncertainty. I realized that the root of the problem lay in fragmented systems—hospitals, jails, morgues, and police stations operated in silos, with no way to share critical data. This inspired Sura Smart: a mission to bridge these gaps with technology and reunite loved ones faster.
 
 * * *
 
-**The Struggle: A Broken System**During our research, we uncovered shocking inefficiencies:
+**The Struggle: A Broken System**
+During our research, we uncovered shocking inefficiencies:
 
 * **Time is life**: Manual searches across disconnected databases delay reunions by weeks.
 * **Human error**: Overworked staff misidentify individuals in crowded morgues or jails.
@@ -20,7 +22,8 @@ Families were left heartbroken, while authorities struggled with outdated tools.
 
 * * *
 
-**Building Sura Smart: Technology with Heart**We assembled a team of AI engineers, data privacy experts, and social workers to create Sura Smart. Here’s how we did it:
+**Building Sura Smart: Technology with Heart**
+We assembled a team of AI engineers, data privacy experts, and social workers to create Sura Smart. Here’s how we did it:
 
 1. **AI-Powered Search**:
   
@@ -48,7 +51,8 @@ Families were left heartbroken, while authorities struggled with outdated tools.
 
 * * *
 
-**Impact: Hope Restored**Sura Smart isn’t just code—it’s a lifeline. By slashing search times from weeks to hours, we’ve already seen:
+**Impact: Hope Restored**
+Sura Smart isn’t just code—it’s a lifeline. By slashing search times from weeks to hours, we’ve already seen:
 
 * **Police efficiency boosted by 40%** during pilot tests in Kenya.
 * **Families reunited** within 48 hours, even across borders.
@@ -58,7 +62,8 @@ One mother shared, *“After two years of searching, Sura found my son in a reha
 
 * * *
 
-**Join the Mission**We’re seeking **$1 million** to scale globally, integrate with 15+ governments, and launch awareness campaigns. Your investment doesn’t just fund technology—it fuels **hope**, **reunions**, and **social change**.
+**Join the Mission**
+We’re seeking **$1 million** to scale globally, integrate with 15+ governments, and launch awareness campaigns. Your investment doesn’t just fund technology—it fuels **hope**, **reunions**, and **social change**.
 
 Together, let’s build a world where no family suffers the agony of “not knowing.”
 
